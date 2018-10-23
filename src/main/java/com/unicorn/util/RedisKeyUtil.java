@@ -1,6 +1,5 @@
 package com.unicorn.util;
 
-import ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy;
 
 public class RedisKeyUtil {
     private static String SPLIT = ":";
